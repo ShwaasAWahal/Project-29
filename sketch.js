@@ -58,7 +58,7 @@ box9.display()
 sling.display()
 
 imageMode(CENTER)
-image(polygonImg,polygon.position.x,polygon.position.y,50,50)
+image(polygonImg,polygon.position.x,polygon.position.y,40,40)
 
 }
 
